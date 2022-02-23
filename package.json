@@ -1,0 +1,18 @@
+{
+  "name": "hello-firestone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module", 
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.6.7",
+    "firebase-admin": "^10.0.2"
+  }
+}
