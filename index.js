@@ -1,5 +1,5 @@
 
-import credentials from './credentials.js';
+import credentials from './credentials.js'; 
 
 //npm i firebase-admin
 import admin from 'firebase-admin';
